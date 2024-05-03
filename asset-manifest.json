@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cleper_Test/static/css/main.23634fbd.css",
+    "main.js": "/Cleper_Test/static/js/main.e8916c6d.js",
+    "static/js/453.5565870f.chunk.js": "/Cleper_Test/static/js/453.5565870f.chunk.js",
+    "index.html": "/Cleper_Test/index.html",
+    "main.23634fbd.css.map": "/Cleper_Test/static/css/main.23634fbd.css.map",
+    "main.e8916c6d.js.map": "/Cleper_Test/static/js/main.e8916c6d.js.map",
+    "453.5565870f.chunk.js.map": "/Cleper_Test/static/js/453.5565870f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23634fbd.css",
+    "static/js/main.e8916c6d.js"
+  ]
+}
